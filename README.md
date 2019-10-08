@@ -18,9 +18,12 @@ Follow the latest [install guidelines](https://docs.docker.com/install/linux/doc
 
 ## Sections
 
+### Basics
 - [Creating and Using Containers Like a Boss](/basic/CREATING_AND_USING.md)
 - [Inside Containers](/basic/INSIDE_CONTAINERS.md)
 - [Networking](/basic/DOCKER_NETWORKING.md)
+
+### Images
 - [Image Basics](/images/IMAGE_BASICS.md)
 - [Tagging and Pushing to Docker Hub](/images/TAGGING_AND_PUSHING.md)
 - [Dockerfiles](/images/DOCKERFILES.md)
