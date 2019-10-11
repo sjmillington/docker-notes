@@ -27,3 +27,17 @@ Follow the latest [install guidelines](https://docs.docker.com/install/linux/doc
 - [Image Basics](/images/IMAGE_BASICS.md)
 - [Tagging and Pushing to Docker Hub](/images/TAGGING_AND_PUSHING.md)
 - [Dockerfiles](/images/DOCKERFILES.md)
+
+### Volumes
+
+- [Persistent Data](/volumes/PERSISTENT_DATA.md)
+
+### Docker Compose 
+
+- [Compose](/compose/DOCKER_COMPOSE.md)
+
+### Swarm
+
+- [Intro](/swarm/SWARM_INTRO.md)
+- [Scaling Out](/swarm/SCALING_OUT.md)
+- [Stacks](/swarm/SWARM_STACKS.md)
