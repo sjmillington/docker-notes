@@ -22,6 +22,7 @@ Follow the latest [install guidelines](https://docs.docker.com/install/linux/doc
 - [Creating and Using Containers Like a Boss](/basic/CREATING_AND_USING.md)
 - [Inside Containers](/basic/INSIDE_CONTAINERS.md)
 - [Networking](/basic/DOCKER_NETWORKING.md)
+- [Healthchecks](/basic/HEALTHCHECK.md)
 
 ### Images
 - [Image Basics](/images/IMAGE_BASICS.md)
@@ -41,3 +42,17 @@ Follow the latest [install guidelines](https://docs.docker.com/install/linux/doc
 - [Intro](/swarm/SWARM_INTRO.md)
 - [Scaling Out](/swarm/SCALING_OUT.md)
 - [Stacks](/swarm/SWARM_STACKS.md)
+- [Secrets](/swarm/SECRETS.md)
+- [Updates](/swarm/SWARM_UPDATES.md)
+
+### Swarm App Lifecycle
+
+- [Full App Lifecycle](/lifecycle/FULL_APP.md)
+
+### Registries
+
+- [Intro](/registries/INTRO.md)
+
+### Docker in Production
+
+- [DockerCon Talk](production/DOCKER_CON_TALK.md)
