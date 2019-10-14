@@ -16,6 +16,10 @@ Follow the latest [install guidelines](https://docs.docker.com/install/linux/doc
 - Edge is Beta, once per month.
 - Stable, once a quarter. Only supported for a month after the next is released.
 
+### Code
+
+Completed examples and code [can be found here](/code/)
+
 ## Sections
 
 ### Basics
@@ -55,4 +59,8 @@ Follow the latest [install guidelines](https://docs.docker.com/install/linux/doc
 
 ### Docker in Production
 
-- [DockerCon Talk](production/DOCKER_CON_TALK.md)
+- [DockerCon Talk](/production/DOCKER_CON_TALK.md)
+
+### Kubernetes 
+
+- [Intro](/kubernetes/INTRO.md)
